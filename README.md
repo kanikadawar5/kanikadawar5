@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanikadawar5
 - 👀 I’m interested in Backend Tech
-- 🌱 I’m currently learning containers
+- 🌱 I’m currently learning DE
 - 💞️ I’m looking to collaborate on texting applications
 - 📫 How to reach me https://www.linkedin.com/in/kanikadawar5/
 
